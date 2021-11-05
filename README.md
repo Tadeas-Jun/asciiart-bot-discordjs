@@ -44,7 +44,7 @@ If you wish to run the bot yourself, please create a bot application in the Disc
 4. Make sure your bot has the `applications.commands` scope enabled to be able to use Slash Commands.
 5. Run the bot via NodeJS by running the `node bot.js` command locally, or set up online hosting.
 
-*The `README.md` and `LICENSE` files do not have to be included in the bot's folder. All other files do.*
+*The `README.md`, `LICENSE`, `.gitignore`, and `.github` files/folders do not have to be included in the bot's folder. All other files do.*
 
 If you chose to run the bot yourself, please consider sponsoring the project here on GitHub with a few dollars.
 
