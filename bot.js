@@ -22,13 +22,15 @@ async function CreateCommands() {
 
     let commandData = [];
 
+    let i = 1;
     artList.forEach(artObject => {
 
-        console.log(`Creating a command for: \'${artObject.name}\'.`);
+        console.log(`${i}. Creating a command for: \'${artObject.name}\'.`);
         let command = {...commandTemplate};
         command.name = artObject.name;
         command.description = command.description.replace('[art]', artObject.art);
         commandData.push(command);
+        i++;
 
     });
 
