@@ -1,0 +1,12 @@
+{
+    "name": "[name]",
+    "description": "Appends [art] to your message.",
+    "options": [
+        {
+            "name": "message",
+            "type": "STRING",
+            "description": "Your message",
+            "required": false
+        }
+    ]
+}

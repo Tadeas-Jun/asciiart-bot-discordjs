@@ -1,0 +1,12 @@
+{
+  "name": "asciibot",
+  "description": "A simple Discord bot for sending ASCII art, coded using the Discord.js library.",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "13.3.0"
+  }
+}
