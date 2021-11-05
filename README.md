@@ -35,7 +35,7 @@ The bot currently contains 25 commands and emoticons, extending Discord's native
 
 As each Discord bot can have up to 100 Slash Commands, this list probably will get expanded in the future. As a matter of fact, you can help expand this list by suggesting new emoticons using this form!
 
-While all the emoticons are fairly simple, and have probably been created many times by many independent authors, the `art.json` file contains the bot's author's sources for all of them.
+While all the emoticons are fairly simple, and have probably been created many times by many independent authors, the `sources.txt` file contains the bot's author's sources for all of them.
 
 ## Set up & use
 If you wish to run the bot yourself, please create a bot application in the Discord Developer Portal (for more instructions, see Tutorial), and then follow these steps:
