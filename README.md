@@ -2,7 +2,7 @@
 😎 This is a simple Discord bot, coded in JavaScript and the Discord.js library. This bot extends the native Discord functionality of commands such as `/tableflip` or `/shrug` with 25+ new emoticons. The bot uses the fairly new Discord feature of Slash Commands.
 
 ## Invite the bot
-The **ASCII Bot** is hosted 24/7 by the author, and is available for anyone to use freely. You can invite the bot to your server(s) using this link.
+The **ASCII Bot** is hosted 24/7 by the author, and is available for anyone to use freely. You can invite the bot to your server(s) using [this link](https://discord.com/oauth2/authorize?client_id=905805762398416916&scope=bot%20applications.commands&permissions=2147483648).
 
 ## Emoticons
 The bot currently contains 25 commands and emoticons, extending Discord's native 3 (`/tableflip`, `/unflip`, and `/shrug`). Here's a full list of the current emoticons the ASCII Bot contains.
@@ -38,7 +38,7 @@ As each Discord bot can have up to 100 Slash Commands, this list probably will g
 While all the emoticons are fairly simple, and have probably been created many times by many independent authors, the `resources/sources.txt` file contains the bot's author's sources for all of them.
 
 ## Set up & use
-If you wish to run the bot yourself, please create a bot application in the Discord Developer Portal (for more instructions, see Tutorial), and then follow these steps:
+If you wish to run the bot yourself, please create a bot application in the Discord Developer Portal (for more instructions, see [Tutorial](/README.md#tutorial)), and then follow these steps:
 
 1. Create a `resources/config.json` file and include your bot token with the key `"token"`.
 2. (optional) Edit the `resources/art.json` file to change the bot's emoticon database.
