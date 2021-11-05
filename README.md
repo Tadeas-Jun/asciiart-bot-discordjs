@@ -30,6 +30,8 @@ The bot currently contains 25 commands and emoticons, extending Discord's native
 21. `boombox` : `♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪`
 22. `santa` : `*<|:‑)`
 23. `run` : `` ε=ε=ε=┌(;*´Д`)ﾉ ``
+24. `o` : `OwO`
+25. `u` : `UwU`
 
 As each Discord bot can have up to 100 Slash Commands, this list probably will get expanded in the future. As a matter of fact, you can help expand this list by suggesting new emoticons using this form!
 
